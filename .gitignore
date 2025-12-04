@@ -1,0 +1,11 @@
+# virtual env
+.venv/
+venv/
+
+# datasets
+digit_dataset/
+images/
+
+# python cache
+__pycache__/
+*.pyc
